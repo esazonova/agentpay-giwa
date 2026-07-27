@@ -15,3 +15,5 @@ frontend/dist/
 # IDE
 .vscode/
 .idea/
+contracts/.env
+contracts/lib/
