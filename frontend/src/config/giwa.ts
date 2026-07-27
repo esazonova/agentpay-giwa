@@ -14,10 +14,10 @@ export const GIWA_SEPOLIA = {
   },
 } as const
 
-// TODO: Update after deployment
+// Deployed on GIWA Sepolia (chain 91342)
 export const CONTRACT_ADDRESSES = {
-  registry: '0x0000000000000000000000000000000000000000' as `0x${string}`,
-  escrow: '0x0000000000000000000000000000000000000000' as `0x${string}`,
+  registry: '0xdF697F836a71e0495a5c67598a32D3Cc49b4D2B6' as `0x${string}`,
+  escrow: '0xfD34f4442CF4CFC6150fd4c69cdc0A0258E1AcD3' as `0x${string}`,
 }
 
 export const GIWA_FAUCET = 'https://faucet.giwa.io/'
